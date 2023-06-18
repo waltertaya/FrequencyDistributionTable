@@ -37,7 +37,7 @@ Statistics_calc is developed and maintained by Walter.
 
 ## License
 
-This project is not licensed.
+This project is licensed.
 
 ## Acknowledgments
 
